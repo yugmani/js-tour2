@@ -58,6 +58,12 @@ body {
 
 .nav p {
   margin-right: 30px;
+  padding: 0px 3px;
+  cursor: pointer;
+}
+
+.nav .nav-item:hover {
+  color: yellow;
 }
 
 .section1,
